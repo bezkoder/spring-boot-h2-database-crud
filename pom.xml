@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.4.1</version>
+		<version>2.7.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bezkoder</groupId>
 	<artifactId>spring-boot-jpa-h2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-jpa-h2</name>
-	<description>Spring Boot JPA + H2 database example - Rest CRUD Apis</description>
+	<description>Spring Boot JPA + H2 database example - CRUD Rest Apis</description>
 
 	<properties>
 		<java.version>1.8</java.version>
